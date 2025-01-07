@@ -1,1 +1,5 @@
-docmost/docmost:latest
+nginx:latest
+redis:latest
+
+#历史转存记录
+#docmost/docmost:latest
